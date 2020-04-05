@@ -2,30 +2,31 @@
 # CoronaLiv
 CoronaLiv - An All-In-One app for Covid-19 Stats  CoronaLiv is the perfect app for people looking for information about Covid-19
 
-Features..* Ad-Free
+Features:
+ Ad-Free
 
-..* No Signing needed 
+ No Signing needed 
 
-..* Data-Visualization from Graphs 
+ Data-Visualization from Graphs 
 
-..* Dedicated Tab for INDIA 
+ Dedicated Tab for INDIA 
 
-..* Testing Stats 
+ Testing Stats 
 
-..* Hospital &amp; Beds Stats 
+ Hospital &amp; Beds Stats 
 
-..* Helpline for all Indian States  
+ Helpline for all Indian States  
 
 
 Sources: 
 
-..* WHO
+ WHO
 
-..* Press Information Bureau -India 
+ Press Information Bureau -India 
 
-..* ICMR
+ ICMR
 
-..* The Ministry of Health &amp; Family Welfare-India
+ The Ministry of Health &amp; Family Welfare-India
 
 
 ![Image of Yaktocat](https://github.com/AJV2018/CoronaLiv/blob/master/Collage.png?raw=true)
