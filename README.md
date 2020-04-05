@@ -5,9 +5,9 @@ CoronaLiv - An All-In-One app for Covid-19 Stats  CoronaLiv is the perfect app f
 
 # Download
 
-####  * Devices released AFTER 2015 [Click Here](https://bit.ly/2RalQlM)
-####  * Devices released BEFORE 2015 [Click Here](https://bit.ly/2V4NKAO)
-####  * All Devices [Click Here](https://bit.ly/2x1PVwY)
+####  * Devices released AFTER 2015 [Click Here](https://bit.ly/2V4PlXk)
+####  * Devices released BEFORE 2015 [Click Here](https://bit.ly/3aKjXE7)
+####  * All Devices [Click Here](https://bit.ly/3dWoDZG)
 ## Features:
 
  -Ad-Free
