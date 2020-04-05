@@ -29,5 +29,5 @@ CoronaLiv - An All-In-One app for Covid-19 Stats  CoronaLiv is the perfect app f
 
  -The Ministry of Health &amp; Family Welfare-India
 
-
+## Screenshots
 ![Image of Yaktocat](https://github.com/AJV2018/CoronaLiv/blob/master/Collage.png?raw=true)
