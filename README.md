@@ -2,7 +2,7 @@
 # CoronaLiv
 CoronaLiv - An All-In-One app for Covid-19 Stats  CoronaLiv is the perfect app for people looking for information about Covid-19
 
-##Features:
+## Features:
 
  -Ad-Free
 
@@ -19,7 +19,7 @@ CoronaLiv - An All-In-One app for Covid-19 Stats  CoronaLiv is the perfect app f
  -Helpline for all Indian States  
 
 
-##Sources: 
+## Sources: 
 
  -WHO
 
